@@ -1,2 +1,3 @@
-# D-MCD
-code for Denoised_Maximum_Classifier_Discrepancy_for_Source-Free_Unsupervised_Domain_Adaptation
+### Denoised Maximum Classifier Discrepancy for Source-Free Unsupervised Domain Adaptation (AAAI 2022)
+
+This is a pytorch Denoised Maximum Classifier Discrepancy for Source-Free Unsupervised Domain Adaptation, our code will be released soon.
