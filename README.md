@@ -3,11 +3,14 @@
 This is a pytorch Denoised Maximum Classifier Discrepancy for Source-Free Unsupervised Domain Adaptation, our code will be released soon.
 
 
-···
-@inproceedings{DMCD,
-title = {Denoised Maximum Classifier Discrepancy for Source-Free Unsupervised Domain Adaptation},
-author = {Tong Chu and Yahao Liu and Jinhong Deng and Wen Li and Lixin Duan},
-booktitle = {Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)},    
+### Citation
+If you find this code useful please consider citing
+```
+
+@InProceedings{Liu_2022_CVPR
+author = {Liu, Yahao and Deng, Jinhong and Tao, Jiale and Chu, Tong and Duan, Lixin and Li, Wen},
+title = {Undoing the Damage of Label Shift for Cross-domain Semantic Segmentation },
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition(CVPR)},
 year = {2022}
 }
-···
+```
