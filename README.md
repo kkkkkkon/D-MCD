@@ -37,7 +37,6 @@ The data folder should be structured as follows:
 |   |   ├── dataset name2/
 |   |   ├── dataset name3/
 |   |   ├── .../
-│   └── final/
 ```
 
 ### Running on visda datasets
