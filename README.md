@@ -39,18 +39,18 @@ The data folder should be structured as follows:
 |   |   ├── .../
 ```
 
-### Running on visda datasets
+### Running on visda dataset
 ```
 sh run_visda.sh > run_visda.txt 
 ```
 
-### Running on office-home datasets
+### Running on office-home dataset
 ```
 sh run_office_home.sh > run_office_home.txt 
 ```
 
 ### Acknowledge
-Codes are adapted from [BCDM](https://github.com/BIT-DA/BCDM.git), [MCD](https://github.com/mil-tokyo/MCD_DA.git) and [SE](https://github.com/Britefury/self-ensemble-visual-domain-adapt.git). We thank them for their excellent projects.
+Part of the codes are adapted from [BCDM](https://github.com/BIT-DA/BCDM.git), [MCD](https://github.com/mil-tokyo/MCD_DA.git) and [SE](https://github.com/Britefury/self-ensemble-visual-domain-adapt.git). We thank them for their excellent projects.
 
 
 ### Citation
