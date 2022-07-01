@@ -42,13 +42,11 @@ The data folder should be structured as follows:
 ### Running on visda datasets
 ```
 sh run_visda.sh > run_visda.txt 
-sh run_visda.sh > run_visda.txt 
 ```
 
 ### Running on office-home datasets
 ```
 sh run_office_home.sh > run_office_home.txt 
-sh run_office_home.sh > run_office_home.txt
 ```
 
 ### Acknowledge
